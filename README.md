@@ -127,6 +127,18 @@
 </details>
 -->
 
+<!--
+## 👨🏻‍💻 Coding Profiles
+
+<a href='https://leetcode.com/mohit_010/'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+<a href='https://www.codechef.com/users/mohit_010'><img src="https://img.icons8.com/color/48/undefined/codechef.png"/></a>
+<a href='https://auth.geeksforgeeks.org/user/mohit_010/articles'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
+<a href='https://www.hackerrank.com/mohit_010'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
+<a href='https://github.com/mohitkota143'></a>
+-->
+<!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a> -->
+<br>
+
 <h4 align="center">
 📊 My Github Stats 📊
 </h4>
@@ -155,8 +167,19 @@ No Bug No Life.
 ```
 -->
 <!--END_SECTION:waka-->
+## 👨🏻‍💻 Coding Profiles
+ 
+![](https://leetcard.jacoblin.cool/mohit_010?ext=heatmap) <img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 
-
+ <!--
+ <img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/light_card.svg" />
+</a>
+<br/>
+<a href="https://github.com/sudiptob2/cf-stats">
+<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/rating.svg" />
+</a>
+-->
 <h4 align="left">
  contact
 </h4>
@@ -169,8 +192,7 @@ No Bug No Life.
 
 
 
-
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="Mohit Kota" alt="Mohit Kota"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
