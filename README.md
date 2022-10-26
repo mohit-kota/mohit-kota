@@ -169,7 +169,8 @@ No Bug No Life.
 <!--END_SECTION:waka-->
 ## 👨🏻‍💻 Coding Profiles
  
-![](https://leetcard.jacoblin.cool/mohit_010?ext=heatmap) <img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+![](https://leetcard.jacoblin.cool/mohit_010?ext=heatmap) 
+<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 
  <!--
  <img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/light_card.svg" />
