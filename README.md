@@ -15,16 +15,16 @@
 -->
   
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitkota143&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/mohitkota143?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
- <a href="https://github.com/mohitkota143?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mohitkota143"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mohit-kota&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/mohit-kota?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
+ <a href="https://github.com/mohit-kota?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mohit-kota"/></a>
  <a href="mailto:mohitkota70@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
 
   <p align="center">
-  <a href="https://github.com/mohitkota143"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Problem%20Solver;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%201%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/mohit-kota"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Problem%20Solver;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%201%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
   <!--
@@ -134,7 +134,7 @@
 <a href='https://www.codechef.com/users/mohit_010'><img src="https://img.icons8.com/color/48/undefined/codechef.png"/></a>
 <a href='https://auth.geeksforgeeks.org/user/mohit_010/articles'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
 <a href='https://www.hackerrank.com/mohit_010'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
-<a href='https://github.com/mohitkota143'></a>
+<a href='https://github.com/mohit-kota'></a>
 -->
 <!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a> -->
 <br>
@@ -144,9 +144,9 @@
 </h4>
  
  <div align="center">
-<a href="http://www.github.com/mohitkota143"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=mohitkota143&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
-<a href="http://www.github.com/mohitkota143"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkota143&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/mohitkota143"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkota143&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/mohit-kota"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=mohit-kota&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="http://www.github.com/mohit-kota"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-kota&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/mohit-kota"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-kota&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <p>
@@ -170,15 +170,15 @@ No Bug No Life.
 ## 👨🏻‍💻 Coding Profiles
  
 ![](https://leetcard.jacoblin.cool/mohit_010?ext=heatmap) 
-<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/mohit-kota/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 
  <!--
- <img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/light_card.svg" />
+ <img src="https://raw.githubusercontent.com/mohit-kota/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
 <a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/rating.svg" />
+<img src="https://raw.githubusercontent.com/mohit-kota/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/mohit-kota/cf-stats/main/output/rating.svg" />
 </a>
 -->
 <h4 align="left">
@@ -188,7 +188,7 @@ No Bug No Life.
  <a href="https://www.instagram.com/mohitkota2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
  <a href="https://www.linkedin.com/in/mohit-kota-198bb0214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
  <a href="https://twitter.com/mohitkota" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
- <a href="https://www.github.com/mohitkota143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
+ <a href="https://www.github.com/mohit-kota" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
 
 
 
